@@ -4,7 +4,7 @@
 [![OS](https://img.shields.io/badge/OS-windows-red)](https://windows.com)
 [![Python version](https://img.shields.io/badge/python-3.7.0-brightgreen.svg)](https://www.python.org) 
  
-[Chan-gyu](https://github.com/wjk1011)
+**Author: [Chan-gyu](https://github.com/wjk1011)
 
 ### **Installation**
 
